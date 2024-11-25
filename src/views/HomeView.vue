@@ -103,7 +103,8 @@ export default {
         { "name": "吴世忠", "position": "中央保密办（国家保密局）中国工程院院士、国家保密科技委主任", "time": "11.19至11.21", "url": "https://zhjd.zjswb.cn:7443/xcc_mobile_2024_static/?planId=8a8081789221dbc801933d5c1a5635bf&sign=cca3104f89354d37966d2196858d1474#/schedule" },
         { "name": "于运全", "position": "中国外文局副局长", "time": "11.20至11.21", "url": "https://zhjd.zjswb.cn:7443/xcc_mobile_2024_static/?planId=8a8081789221dbc801933d5d084735e1&sign=cccf511e5c3c44d692b51e01257ed938#/schedule" },
         { "name": "王艺", "position": "共青团中央书记处书记、全国青联副主席", "time": "11.19至11.21", "url": "https://zhjd.zjswb.cn:7443/xcc_mobile_2024_static/?planId=8a8081789221dbc801933d5dbe753604&sign=07ccb3a0528343de8b37a5746db15471#/schedule" }
-      ]
+      ],
+      test: "测试远程仓库"
     }
   },
   methods: {
